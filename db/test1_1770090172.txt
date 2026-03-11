@@ -1,0 +1,1 @@
+We built software that helps lawyers write briefs faster by analyzing case files and producing drafts.
